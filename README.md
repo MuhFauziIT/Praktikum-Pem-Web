@@ -1,2 +1,2 @@
-# Praktikum-Pem-Web
-Folder ini berisikan Praktikum Pemrograman Web1 Muh Fauzi
+# Praktikum Pemrograman Web
+Folder ini berisikan Praktikum Pemrograman Web Muh Fauzi
