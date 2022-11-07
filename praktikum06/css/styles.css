@@ -1,0 +1,40 @@
+    body {
+        background-color: coral ;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+    .header {
+        background-color: rgb(164, 146, 146);
+        padding:10px;
+    }
+    h1 {
+        text-align: center;
+         color: rgb(37, 14, 246);
+    }
+    .quote {
+        text-align: center;
+        color: black;
+        border:1px dashed white;
+        background-color: yellow;
+    } 
+    .kelompok {
+        list-style-type:none;
+        text-align: center;
+    }
+    .center {
+        text-align: center;
+        width: 40% ;
+        margin: auto;
+    }
+    p {
+        text-align: justify;
+    }
+    .gambar {
+        text-align: center;
+        width: 35% ;
+    }
+    .promosi {
+        text-align: left;
+    }
+    #garis {
+        text-decoration: line-through;
+    }
