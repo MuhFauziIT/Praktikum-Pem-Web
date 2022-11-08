@@ -1,0 +1,28 @@
+div {
+    display: inline-block;
+    margin-inline: 30px;
+    text-align: center;
+}
+.box1 {
+    width: 200px;
+    height: 500px;
+    background-color: lightgreen;
+}
+
+.box2 {
+    width: 200px;
+    height: 500px;
+    background-color: aqua;
+}
+
+.box3 {
+    width: 200px;
+    height: 500px;
+    background-color: rgb(255, 0, 0);
+}
+
+.box4 {
+    width: 200px;
+    height: 500px;
+    background-color: blue;
+}
