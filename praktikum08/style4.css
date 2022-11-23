@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+}
+
+body {
+    display: flex;
+}
+
+nav {
+    background-color: pink;
+    height: 100vh;
+    width: 20%;
+}
+
+header {
+    background-color: bisque;
+    height: 15%;
+    width: 1025px;
+}
+
+article {
+    flex: 2;
+}
+
+aside {
+    background-color: aquamarine;
+    flex: 1;
+}
+
+footer {
+    background-color: blanchedalmond;
+    height: 15vh;
+}
+
+.div {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    display: flex;
+    height: 70vh;
+}
